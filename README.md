@@ -1,11 +1,11 @@
 <h3 align="center">😁Hi, I'm Honoré! <br>A Passionate Cybersecurity Analist from Cameroon ✨ Open source Enthusiast ✨ Web developper and a 3D artist </h3>
-<hr>
+<h2></h2>
 
-<h3>👨‍💻 My Projects:</h3>
+<h4>👨‍💻 My Projects:</h4>
 
 - 
 <h2></h2>
-<h3>📺 YouTube Videos</h3>
+<h4>📺 YouTube Videos</h4>
 
 - 
 
