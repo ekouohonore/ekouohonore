@@ -1,15 +1,10 @@
-<h3 align="center">😁Hi, I'm Honoré! <br>A Passionate Cybersecurity Analist from Cameroon ✨Open source Enthusiast✨ Web developper and 3D artist</h3>
+<h3 align="center">😁Hi, I'm Honoré! <br>A Passionate Cybersecurity Analist from Cameroon ✨Open source Enthusiast✨ and Web developper</h3>
 <h2></h2>
 
 <h4>👨‍💻 My Projects:</h4>
 
-- 
+- coming soon🫠😁
 <h2></h2>
-<h4>📺 YouTube Videos</h4>
-
-- 
-
-  <h2></h2>
 
 # Let's Stay connected <a href="https://twitter.com/ekouohonore" target="blank"><img src="https://img.shields.io/twitter/follow/ekouohonore?logo=twitter&style=for-the-badge" alt="ekouohonore" /></a>
 
