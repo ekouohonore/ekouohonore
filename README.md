@@ -1,9 +1,9 @@
-<h3 align="center">Hi, I’m Ekouo Honore! <br> A cyber security engineer, network engineer, and web developer. I enjoy creating secure and user-friendly web applications using various technologies and frameworks. I’m also interested in app development, and I’m learning how to build applications for different platforms and devices. I’m based in Cameroon, and I enjoy reading and learning new things. I'm also an Open source Enthusiast. Check out my repositories and feel free to contact me. </h3>
+<h3 align="center">Hi, I’m Ekouo Honore! <br> A cyber security engineer, network engineer, and web developer. I enjoy creating secure and user-friendly web applications using various technologies and frameworks. I’m also interested in app development, and I’m learning how to build applications for different platforms and devices. I’m based in Cameroon, and I enjoy reading and learning new things. I'm also an Open source Enthusiast. Check out my repositories and feel free to contact me.😁 </h3>
 <h2></h2>
 
 <h4>👨‍💻 My Projects:</h4>
 
-- coming soon🫠😁
+- coming soon😁
 <h2></h2>
 
 # Let's Stay connected <a href="https://twitter.com/ekouohonore" target="blank"><img src="https://img.shields.io/twitter/follow/ekouohonore?logo=twitter&style=for-the-badge" alt="ekouohonore" /></a>
